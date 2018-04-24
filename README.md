@@ -4,6 +4,9 @@
 
 ---
 
+!["Screenshot"](https://raw.githubusercontent.com/bryanlampert/fivedayforecast/master/docs/fivedayforecast.png)
+
+---
 #### Setup
 
 * install dependencies
